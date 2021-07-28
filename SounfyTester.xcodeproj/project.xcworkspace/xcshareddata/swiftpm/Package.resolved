@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Soundfy",
+        "repositoryURL": "https://github.com/AlbertQueiroz/Soundfy.git",
+        "state": {
+          "branch": "feature/player/develop",
+          "revision": "248fb8ae6290af7715abe331b825c445a39e3ff1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
